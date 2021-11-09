@@ -47,6 +47,7 @@
 @import url("../blocks/resourses/resourses.css");
 @import url("../blocks/resourses/__logo-zone/resourses__logo-zone.css");
 @import url("../blocks/resourses/__logo/resourses__logo.css");
+@import url("../blocks/resourses/__logo-link/resourses__logo-link.css");
 @import url("../blocks/rotation/rotation.css");
 @import url("../blocks/section-subtitle/section-subtitle.css");
 @import url("../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css");
